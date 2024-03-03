@@ -1,0 +1,26 @@
+#choises{
+    width: 150px;
+    height: 180px;
+    text-align: center;
+    background-color: rgb(19, 68, 160);
+    color: white;
+    border-radius: 5px;
+}
+#number{
+    width: 130px;
+    height: 50px;
+    background-color: rgb(166, 208, 228);
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    outline: 5px solid rgb(13, 76, 172);
+}
+button{
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+}
+p{
+    color: whitesmoke;
+
+}
